@@ -7,11 +7,11 @@ Link to original dataset: [Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel
 ## The approach to this project
 1 Identify my area of interest: Understanding hotel reservations
 2 Questions I would want to answer with the data such as
-- identify reservation patterns and the number of guests in different months
-- compare reservations verse cancellations
-- spot unusual things such as 'Did children check into the hotel without adults'
-- calculate the average prices earned in different months
+  - identify reservation patterns and the number of guests in different months
+  - compare reservations verse cancellations
+  - spot unusual things such as 'Did children check into the hotel without adults'
+  - calculate the average prices earned in different months
 3 Sourced the data from Kaggle 
-- Using the star schema, created the database which consists of 4 dimension tables and one fact table
-- The dimensions are related to the fact table with the use of foreign keys
-- The data year spans two years (2017 - 2018)
+  - Using the star schema, created the database which consists of 4 dimension tables and one fact table
+  - The dimensions are related to the fact table with the use of foreign keys
+  - The data year spans two years (2017 - 2018)
